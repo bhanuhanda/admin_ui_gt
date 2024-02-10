@@ -1,0 +1,6 @@
+#search-container > input {
+    width: 100%;
+    padding: 0.4rem 0.6rem;
+    border-radius: 0.3rem;
+    border: 0.5px solid #000;
+}

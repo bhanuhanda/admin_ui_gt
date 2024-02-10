@@ -1,0 +1,47 @@
+#table-container {
+    flex: 1;
+}
+
+#table-wrapper {
+    width: 100%;
+}
+
+
+#header-row > th {
+    width: 20%;
+    text-align: left;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+tr {
+    border-bottom: 0.5px solid #aaa;
+}
+
+th,td {
+    padding: 0.5rem;
+}
+
+#actions-td > span {
+    margin: auto 0.3rem;
+}
+
+#body-rows {
+    color: #555;
+}
+
+.grey-bg {
+    background-color: #eee;
+}
+
+.white-bg {
+    background-color: #fff;
+}
+
+.edit, .save, .delete, .cancel {
+    background-color: transparent;
+    border: 0;
+    padding: 0.2rem;
+}
